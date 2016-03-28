@@ -2,6 +2,7 @@ name: RavenCat
 favicon: null
 layout_spectrum: 0.5736740930005908
 typography_spectrum: 0.36304079624824226
+title: RavenCat
 cta:
   domain: null
   bucket: null
